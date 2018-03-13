@@ -1,0 +1,226 @@
+qttranslations-opensource-src (5.9.3+ubports1) xenial; urgency=medium
+
+  * Import to UBports
+
+ -- Dan Chapman <dan@ubports.com>  Tue, 13 Mar 2018 06:08:05 +0000
+
+qttranslations-opensource-src (5.9.3-0ubuntu1) bionic; urgency=medium
+
+  * New upstream release.
+  * Bump build dependencies to Qt 5.9.3.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 13 Dec 2017 21:29:08 -0600
+
+qttranslations-opensource-src (5.9.2-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Qt build-dependencies to 5.9.2.
+  * Update to debhelper compat level 10.
+  * Bump Standards-Version to 4.1.1, no changes needed.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Fri, 27 Oct 2017 21:55:13 +0300
+
+qttranslations-opensource-src (5.9.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update debian/copyright for upstream license change.
+  * Bump Standards-Version to 4.0.1, no changes needed.
+  * Upload to unstable.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Wed, 16 Aug 2017 15:13:44 +0300
+
+qttranslations-opensource-src (5.9.0-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Add myself to Uploaders.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 15 Jun 2017 08:47:17 -0500
+
+qttranslations-opensource-src (5.7.1~20161021-1) unstable; urgency=medium
+
+  * New upstream snapshot.
+    - Bump Qt build dependencies.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 26 Oct 2016 18:36:43 -0300
+
+qttranslations-opensource-src (5.6.1-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Mon, 13 Jun 2016 11:25:17 -0300
+
+qttranslations-opensource-src (5.6.1-1) experimental; urgency=medium
+
+  * New upstream release.
+    - Bump Qt build dependencies.
+  * Bump Standards-Version to 3.9.8, no changes required.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 12 Jun 2016 18:18:26 -0300
+
+qttranslations-opensource-src (5.6.0-1) experimental; urgency=medium
+
+  * New upstream release. Bump build dependencies.
+  * Bump Standards-Version to 3.9.7, no changes.
+  * Switch vcs URLs to https.
+
+ -- Timo Jyrinki <timo@debian.org>  Wed, 06 Apr 2016 12:18:14 +0300
+
+qttranslations-opensource-src (5.5.1-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 21 Oct 2015 22:01:16 -0300
+
+qttranslations-opensource-src (5.5.1-1) experimental; urgency=medium
+
+  * New upstream release.
+    - Bump Qt build dependencies.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Mon, 19 Oct 2015 13:18:46 -0300
+
+qttranslations-opensource-src (5.5.0-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Bump Qt build-dependencies to 5.5.0.
+  * Update debian/copyright.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Fri, 28 Aug 2015 14:57:16 +0300
+
+qttranslations-opensource-src (5.4.2-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 24 Jun 2015 17:50:04 -0300
+
+qttranslations-opensource-src (5.4.2-1) experimental; urgency=medium
+
+  [ Timo Jyrinki ]
+  * Update debian/copyright.
+
+  [ Lisandro Damián Nicanor Pérez Meyer ]
+  * New upstream release.
+    - Bump Qt build dependencies.
+  * Clear up the list in Uploaders removing people who hasn't committed to the
+    repo in more than a year. They can re add themselves whenever they want
+    (and we really hope to see you back really soon!).
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 03 Jun 2015 16:50:19 -0300
+
+qttranslations-opensource-src (5.4.1-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Update watch file to qt.io.
+  * Bump Qt build-dependencies to 5.4.1.
+
+ -- Timo Jyrinki <timo@debian.org>  Wed, 04 Mar 2015 12:04:03 +0000
+
+qttranslations-opensource-src (5.4.0-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Bump Qt build-dependencies to 5.4.0.
+  * Update debian/copyright.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Mon, 22 Dec 2014 14:32:18 +0300
+
+qttranslations-opensource-src (5.3.2-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Tue, 23 Sep 2014 00:06:01 -0300
+
+qttranslations-opensource-src (5.3.2-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Update my e-mail address.
+  * Update Vcs-Browser field to point to cgit interface.
+  * Update build-dependencies for Qt 5.3.2.
+  * Update debian/copyright.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Thu, 18 Sep 2014 13:11:02 +0400
+
+qttranslations-opensource-src (5.3.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Qt build dependencies.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Mon, 30 Jun 2014 18:14:39 -0300
+
+qttranslations-opensource-src (5.3.0-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Fri, 06 Jun 2014 16:15:03 -0300
+
+qttranslations-opensource-src (5.3.0-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Bump Qt build dependencies.
+  * Update debian/copyright.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 28 May 2014 23:41:25 -0300
+
+qttranslations-opensource-src (5.2.1-2) unstable; urgency=medium
+
+  [ Dmitry Shachnev ]
+  * Remove dh_builddeb override, xz is now the default compression method.
+
+  [ Lisandro Damián Nicanor Pérez Meyer ]
+  * Upload to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Tue, 25 Mar 2014 00:07:12 -0300
+
+qttranslations-opensource-src (5.2.1-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Bump Qt build dependencies.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 19 Feb 2014 19:48:06 -0300
+
+qttranslations-opensource-src (5.2.0-2) unstable; urgency=medium
+
+  * Upload to unstable.
+  * Fix orthography in previous changelog.
+  * Update Standards-Version to 3.9.5, no changes required.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Fri, 31 Jan 2014 17:38:12 -0300
+
+qttranslations-opensource-src (5.2.0-1) experimental; urgency=low
+
+  [ Dmitry Shachnev ]
+  * New upstream release.
+  * Bump qtbase and qttools build-dependencies to 5.2.0.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Fri, 13 Dec 2013 14:31:25 -0300
+
+qttranslations-opensource-src (5.1.1-1) unstable; urgency=low
+
+  * New upstream release.
+  * Tighten Qt 5 build dpendencies.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Fri, 30 Aug 2013 18:19:40 -0300
+
+qttranslations-opensource-src (5.1.0-2) unstable; urgency=low
+
+  * Upload to unstable.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 11 Aug 2013 13:31:31 -0300
+
+qttranslations-opensource-src (5.1.0-1) experimental; urgency=low
+
+  * New upstream release.
+  * Fix watch file.
+  * Bump Qt  build dependencies to 5.1.0~.
+  * Export QT_SELECT instead of depending on qt5-default.
+  * Remove add_license_files.patch, applied upstream.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 11 Jul 2013 21:48:00 -0300
+
+qttranslations-opensource-src (5.0.2-1) experimental; urgency=low
+
+  [ Dmitry Shachnev ]
+  * Initial release. (Closes: #697509)
+  * debian/patches/add_license_files.patch: add (L)GPL license files
+    (backported from upstream).
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sat, 11 May 2013 15:53:22 -0300

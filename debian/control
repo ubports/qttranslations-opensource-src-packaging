@@ -1,0 +1,29 @@
+Source: qttranslations-opensource-src
+Section: localization
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Dmitry Shachnev <mitya57@debian.org>,
+           Sune Vuorela <debian@pusling.com>,
+           Pino Toscano <pino@debian.org>,
+           Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
+           Felix Geyer <fgeyer@debian.org>,
+           Timo Jyrinki <timo@debian.org>,
+           Simon Quigley <tsimonq2@ubuntu.com>
+Build-Depends: debhelper (>= 10),
+               qt5-qmake (>= 5.9.3+dfsg~),
+               qttools5-dev-tools (>= 5.9.3~)
+Standards-Version: 4.1.1
+Homepage: http://qt-project.org/
+Vcs-Git: https://anonscm.debian.org/git/pkg-kde/qt/qttranslations.git
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-kde/qt/qttranslations.git
+
+Package: qttranslations5-l10n
+Depends: ${misc:Depends}
+Architecture: all
+Description: translations for Qt 5
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package provides translation files for Qt itself and some base apps,
+ such as Qt Linguist, Qt Assistant and Qt Designer.
