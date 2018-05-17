@@ -1,8 +1,14 @@
-qttranslations-opensource-src (5.9.3+ubports1) xenial; urgency=medium
+qttranslations-opensource-src (5.9.5-0ubports1) xenial; urgency=medium
 
-  * Import to UBports
+  * New upstream release.
 
- -- Dan Chapman <dan@ubports.com>  Tue, 13 Mar 2018 06:08:05 +0000
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 14 Apr 2018 15:57:34 -0500
+
+qttranslations-opensource-src (5.9.4-0ubuntu1) bionic; urgency=medium
+
+  * New upstream release.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 25 Feb 2018 20:21:06 -0600
 
 qttranslations-opensource-src (5.9.3-0ubuntu1) bionic; urgency=medium
 
